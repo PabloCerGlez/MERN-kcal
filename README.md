@@ -1,16 +1,6 @@
 # Aplicación MERN Hackademy
 
 
-**Requisitos:**
-
-* Conocimiento de Javascript intermedio
-* Conocimientos del controlador de versiones con GIT Usaremos la plataforma GitHub)
-* Tener instalado [GIT](https://git-scm.com)
-* Tener instalado [Nodejs](https://nodejs.org)
-* Tener instalado NPM
-* Tener instalado [MongoDB](https://docs.mongodb.com/manual/administration/install-community/)
-* Editor de código que desees
-
 **API (Backend)**:
 
 * [Nodejs](https://nodejs.org)
@@ -64,9 +54,8 @@ Utilizando la arquitectura **MERN** (Mongo, Express, React, Node), crear aplicac
     * *[ ] **[FRONT]** - Input de texto para introducir nombre de la comida (Pozole, Menudo, Ceviche, etc).
     * *[ ] **[FRONT]** - Dropdown que consultara al catalogo de tipo de comida (Desayuno, Comida, Colación, Cena).
     * *[ ] **[FRONT]** - Datepicker que registra la fecha de consumo.
-    * *[ ] **[FRONT]** - Autocomplete de alimentos utilizados, el cual consultara al catalogo de alimentos (pollo, cebolla, tomates, etc):
-      * Autocomplete component: `https://gist.github.com/oscaroceguera/621a08f64e1b391059d5a0fc6bff1ccd`
-      * Autocomplete functions `https://gist.github.com/oscaroceguera/bdf5512e13b399e9b2042dad7078c791`
+    * *[ ] **[FRONT]** - Autocomplete de alimentos utilizados, el cual consultara al catalogo de alimentos (pollo, cebolla, tomates, etc)
+
     * *[ ] **[FRONT]** - Guardar comida.
     
 * *[ ] **02_LISTADO_COMIDAS:**
